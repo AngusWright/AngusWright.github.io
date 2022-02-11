@@ -7,12 +7,24 @@ layout: default
 This website primarily functions as the host place for my "Introduction to Statistics for Astronomers and Physicists"
 Lecture Notes. For those interested, it also contains links to my academic curriculum vitae and relevant websites. 
 
+### About me 
+
+I am a Research Fellow in the German Centre for Cosmological Lensing (GCCL) at the Ruhr Universität Bochum (RUB),
+Germany. I undertook my PhD at the University of Western Australia, where I studied the growth and evolution of
+baryonic mass as a member of the Galaxy and Mass Assembly (GAMA) collaboration. Following my PhD, I worked for the
+Kilo Degree Survey (KiDS) at the Argelander Institute for Astronomy at the Universität Bonn, where I began my work
+within weak gravitational lensing. For the last 5 years my research has focused on weak lensing survey science, and
+particularly on optimisation of photometric image reduction and analysis methods, systematics mitigation, and
+statistical analyses. Beyond weak lensing, I am a keen astrostatistician, an animated astronomy outreach presenter,
+and an enthusiastic but nonetheless mediocre golfer.
+
 ### Introduction to Statistics for Astronomers and Physicists 
 
-At the Ruhr-University Bochum (RUB) I teach an introductory course in statistics for students studying Physics and
-Astronomy. The course is designed to be accessible to students with little or no previous statistical training. I
-attempt to develop a new aspect of the course each semester, and welcome comments/feedback about the course and it's
-contents. Any comments can be added to my [AstroStats github repository]() using the [issues list](). 
+At the RUB I teach an introductory course in statistics for students studying Physics and Astronomy. The course is
+designed to be accessible to students with little or no previous statistical training. I attempt to develop a new aspect
+of the course each semester, and welcome comments/feedback about the course and it's contents. Any comments can be added
+to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) using the 
+[issues list](https://github.com/AngusWright/AstroStats/issues). 
 
 The lecture notes are directly accessible here in two formats: 
 
@@ -22,6 +34,11 @@ The lecture notes are directly accessible here in two formats:
 2. The *HTML-slides* format presents the lectures on a series of HTML slides. The slides are somewhat unconventional, in
    that they are variable in length (i.e. not like powerpoint). However I have found this to be the best format for 
    conveying the information here. 
+
+Additional formats (PDF, markdown, and rmarkdown) are available in the [git
+repository](https://github.com/AngusWright/AstroStats/). These formats have limitations, however, as they variously
+cannot display animations (PDF) or latex (markdown) in a generally satisfactory way. The lectures themselves are written 
+in rmarkdown, and can be compiled into the other formats within R/Rstudio. 
 
 #### HTML Page Notes 
 
@@ -58,4 +75,28 @@ The lecture notes are directly accessible here in two formats:
 - [Lecture 4b: Optimisation and Complex Modelling I](./LectureNotes/IntroductionToStatistics_Section4b_slidy.html)
 - [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_slidy.html)
 - [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_slidy.html)
+
+#### Cloning the lecture notes 
+
+The lecture notes can be directly downloaded in many formats from the [github repository](), or from the command line as
+below: 
+
+```bash
+git clone git@github.com:AngusWright/AstroStats.git
+``` 
+
+## Useful Links 
+
+Various academic and non-academinc websites on which I am active and/or which are relevant 
+to my career can be found below: 
+
+- NASA ADS: [AHWPublications](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ)
+- ORCID: [0000-0001-7363-7932](https://orcid.org/my-orcid?orcid=0000-0001-7363-7932)
+- Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
+- Twitter: [@AstroAngus](https://twitter.com/AstroAngus)
+- German Centre for Cosmological Lensing: [GCCL](https://gccl-rub.github.io) 
+
+## Curriculum Vitae 
+
+My long-form Academic CV is available in PDF format [here](./AHWright_CV.pdf).
 
