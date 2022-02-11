@@ -87,7 +87,7 @@ git clone git@github.com:AngusWright/AstroStats.git
 
 ## Useful Links 
 
-Various academic and non-academinc websites on which I am active and/or which are relevant 
+Various academic and non-academic websites on which I am active and/or which are relevant 
 to my career can be found below: 
 
 - NASA ADS: [AHWPublications](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ)
