@@ -85,11 +85,19 @@ below:
 git clone git@github.com:AngusWright/AstroStats.git
 ``` 
 
+## Lecture Recordings 
+
+Recordings of the Lectures from the Summer Semester 2021 (held virtually) are available 
+[on my YouTube channel](https://www.youtube.com/user/anguswright1/playlists) in the Lectures playlist. 
+
 ## Useful Links 
 
 Various academic and non-academic websites on which I am active and/or which are relevant 
 to my career can be found below: 
 
+- Recorded Academic Presentations: [Academic Talks](https://www.youtube.com/user/anguswright1/playlists)
+- Recorded Outreach Presentations: [Outreach Talks](https://www.youtube.com/user/anguswright1/playlists)
+- Recorded Lectures: [Lectures](https://www.youtube.com/user/anguswright1/playlists)
 - NASA ADS: [AHWPublications](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ)
 - ORCID: [0000-0001-7363-7932](https://orcid.org/my-orcid?orcid=0000-0001-7363-7932)
 - Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
