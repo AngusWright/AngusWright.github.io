@@ -51,7 +51,8 @@ And as HTML slides (which I use during lecturing):
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](https://anguswright.github.io/another_page.html).
-[Link to another page](./another_page.html).
+
+[Link to local slides](./IntroductionToStatistics_Section0_html.html).
 
 There should be whitespace between paragraphs.
 
