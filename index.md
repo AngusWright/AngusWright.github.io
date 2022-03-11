@@ -106,5 +106,5 @@ to my career can be found below:
 
 ## Curriculum Vitae 
 
-My long-form Academic CV is available in PDF format [here](./AHWright_CV.pdf).
+My long-form Academic CV is available in PDF format [here](./assets/AHWright_CV.pdf).
 
