@@ -58,7 +58,11 @@ in rmarkdown, and can be compiled into the other formats within R/Rstudio.
 - [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_html.html)
 - [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_html.html)
 
-#### HTML Slide Notes  
+#### HTML Short-Format Slides  
+
+- [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_ioslides_pres.html)
+
+#### HTML Long-Format Slides  
 
 - [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_slidy.html)
 - [Lecture 1a: Data Description and Summarisation](./LectureNotes/IntroductionToStatistics_Section1a_slidy.html)
