@@ -58,6 +58,9 @@ in rmarkdown, and can be compiled into the other formats within R/Rstudio.
 - [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_html.html)
 - [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_html.html)
 - [Astrostatistics: Lecture 1](./LectureNotes/AstroStatistics_1.html)
+- [Astrostatistics: Lecture 2](./LectureNotes/AstroStatistics_2.html)
+- [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.html)
+- [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.html)
 
 #### HTML Short-Format Slides  
 
