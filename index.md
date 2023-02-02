@@ -62,6 +62,13 @@ in rmarkdown, and can be compiled into the other formats within R/Rstudio.
 - [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.html)
 - [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.html)
 
+#### PDF Handouts   
+
+- [Astrostatistics: Lecture 1](./LectureNotes/AstroStatistics_1.pdf)
+- [Astrostatistics: Lecture 2](./LectureNotes/AstroStatistics_2.pdf)
+- [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.pdf)
+- [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.pdf)
+
 #### HTML Short-Format Slides  
 
 - [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_ioslides_pres.html)
