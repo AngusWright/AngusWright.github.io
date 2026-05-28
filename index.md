@@ -4,19 +4,61 @@ layout: default
 
 ## Welcome 
 
-This website primarily functions as the host place for my "Introduction to Statistics for Astronomers and Physicists"
-Lecture Notes. For those interested, it also contains links to my academic curriculum vitae and relevant websites. 
-
 ### About me 
 
-I am a Research Fellow in the German Centre for Cosmological Lensing (GCCL) at the Ruhr Universität Bochum (RUB),
-Germany. I undertook my PhD at the University of Western Australia, where I studied the growth and evolution of
-baryonic mass as a member of the Galaxy and Mass Assembly (GAMA) collaboration. Following my PhD, I worked for the
-Kilo Degree Survey (KiDS) at the Argelander Institute for Astronomy at the Universität Bonn, where I began my work
-within weak gravitational lensing. For the last 5 years my research has focused on weak lensing survey science, and
-particularly on optimisation of photometric image reduction and analysis methods, systematics mitigation, and
-statistical analyses. Beyond weak lensing, I am a keen astrostatistician, an animated astronomy outreach presenter,
-and an enthusiastic but nonetheless mediocre golfer.
+I am a Junior Research Group Leader in the German Centre for Cosmological Lensing (GCCL) at the Ruhr University Bochum
+(RUB), Germany, and PI of the DFG Collaborative Research Center SFB-1491 project `Dark matter and gas in galaxies'.  I
+undertook my PhD at the University of Western Australia, where I studied the growth and evolution of baryonic mass as a
+member of the Galaxy and Mass Assembly (GAMA) collaboration. Following my PhD, I worked for the Kilo Degree Survey
+(KiDS) at the Argelander Institute for Astronomy at the Friedrich-Wilhelms-Universit\"at Bonn, where I began my work
+within weak gravitational lensing. Since 2017 my research has focused on weak lensing survey science, and particularly
+on optimisation of photometric image reduction and analysis methods, systematics mitigation, and statistical analyses. I
+currently lead three working groups within the KiDS Weak Lensing collaboration: the Data Release Group, the Redshift
+Calibration group, and the Legacy Cosmic Shear group. Beyond KiDS, I am very active within the Euclid collaboration as
+the lead of the redshift calibration task force (zTF), a member of the photometric redshifts organisational unit
+(OU-PHZ), the shear measurement organisational unit (OU-SHE), the shear calibration task force (SHECAL), the visual mask
+tiger team (VMPZ-ID), and weak lensing science working group (WL-SWG).  Beyond weak lensing, I am a keen
+astrostatistician, an innovative lecturer, an animated astronomy outreach presenter, and an enthusiastic but nonetheless
+mediocre golfer.
+
+## Academic Profile & Curriculum Vitae 
+
+My long-form Academic CV is available in PDF format [here](./assets/AHWright_CV.pdf), and in interactive HTML format
+[here](./assets/AHWright_CV.html). 
+
+## Lecturing & Resource Materials
+
+I currently teach two courses at the Ruhr University:
+
+- Introduction to Statistics for Astronomers and Physicists (15 1.5hr lectures)
+- Cosmology (15 3hr lectures) 
+
+Additionally I have short courses at the SFB1491 Plasma & Astrophysics Winter School: 
+
+- Astrostatistics (3 3hr lectures) 
+
+Finally, I have taught the following contributing lectures at various universities (including 
+Technische Universit\"at Dortmund and the Rheinische Friedrich-Wilhelms-Universit\"at Bonn): 
+
+- Astrostatistics (1 1.5hr lecture)
+- Observational Optical & Near-IR Astronomy (1x 1.5hr lecture) 
+
+### Lecturing Philosophy 
+
+During my academic career, both behind and in front of the lecturn, I have experienced the diversity of students'
+learning styles first hand. Some students find mathematical derivations illuminating, whereas others are most receptive
+to visual explanations via diagrams and sketches. Some students find individual exercises helpful, while many prefer
+first to tackle problems interactively during a lecture. 
+
+With this in mind, I tailor my teaching materials and style to the needs of the cohort that I am teaching. I am firmly
+of the opinion that, if there is even a minority of students who struggle to grasp the (simple or complex) concepts being 
+presented in my lecture, then I have not done my job as an educator. Put simply: the lecturers job is not to simply _deliver_ 
+content, but rather to ensure that said content is received and understood. It is an interactive process! 
+
+In the sections below I provide: 
+- descriptions and summaries of my courses; 
+- course materials in a range of formats; and 
+- lecture recordings (where available) hosted on my YouTube channel.   
 
 ### Introduction to Statistics for Astronomers and Physicists 
 
@@ -25,6 +67,25 @@ designed to be accessible to students with little or no previous statistical tra
 of the course each semester, and welcome comments/feedback about the course and it's contents. Any comments can be added
 to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) using the 
 [issues list](https://github.com/AngusWright/AstroStats/issues). 
+
+[Lecture Materials](./LectureNotes/IntroductionToStatistics_materials.html)
+
+### Cosmology  
+
+[Lecture Materials](./LectureNotes/Cosmology_materials.html)
+
+### Plasma & Astrophysics Winter School: Astrostatistics 
+
+[Lecture Materials](./LectureNotes/AstroStatisticsWS_materials.html)
+
+### Ring Lecture: Astrostatistics 
+
+[Lecture Materials](./LectureNotes/AstroStatistics_materials.html)
+
+### Optical and Near-IR Observational Astronomy
+
+[Lecture Materials](./LectureNotes/AstroStatisticsWS_materials.html)
+
 
 The lecture notes are directly accessible here in two formats: 
 
@@ -56,7 +117,7 @@ in rmarkdown, and can be compiled into the other formats within R/Rstudio.
 - [Lecture 4a: Significance of Evidence](./LectureNotes/IntroductionToStatistics_Section4a_html.html)
 - [Lecture 4b: Optimisation and Complex Modelling I](./LectureNotes/IntroductionToStatistics_Section4b_html.html)
 - [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_html.html)
-- [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_html.html)
+
 - [Astrostatistics: Lecture 1](./LectureNotes/AstroStatistics_1.html)
 - [Astrostatistics: Lecture 2](./LectureNotes/AstroStatistics_2.html)
 - [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.html)
@@ -69,6 +130,7 @@ in rmarkdown, and can be compiled into the other formats within R/Rstudio.
 - [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.pdf)
 - [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.pdf)
 
+- [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_html.html)
 #### HTML Short-Format Slides  
 
 - [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_ioslides_pres.html)
@@ -100,6 +162,8 @@ below:
 git clone git@github.com:AngusWright/AstroStats.git
 ``` 
 
+### Introduction to Statistics for Astronomers and Physicists 
+
 ## Lecture Recordings 
 
 Recordings of the Lectures from the Summer Semester 2021 (held virtually) are available 
@@ -118,8 +182,4 @@ to my career can be found below:
 - Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
 - Twitter: [@AstroAngus](https://twitter.com/AstroAngus)
 - German Centre for Cosmological Lensing: [GCCL](https://gccl-rub.github.io) 
-
-## Curriculum Vitae 
-
-My long-form Academic CV is available in PDF format [here](./assets/AHWright_CV.pdf).
 
