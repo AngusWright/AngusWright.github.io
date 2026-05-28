@@ -23,12 +23,11 @@ mediocre golfer.
 
 ## Academic Profile & Curriculum Vitae 
 
-My long-form Academic CV is available in PDF format [here](./assets/AHWright_CV.pdf), and in interactive HTML format
-[here](./assets/AHWright_CV.html). 
+My long-form Academic CV is available in PDF format [here](./assets/AHWright_CV.pdf). 
 
 ## Lecturing & Resource Materials
 
-I currently teach two courses at the Ruhr University:
+I currently teach two courses at the Ruhr University Bochum:
 
 - Introduction to Statistics for Astronomers and Physicists (15 1.5hr lectures)
 - Cosmology (15 3hr lectures) 
@@ -70,104 +69,6 @@ to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) 
 
 [Lecture Materials](./LectureNotes/IntroductionToStatistics_materials.html)
 
-### Cosmology  
-
-[Lecture Materials](./LectureNotes/Cosmology_materials.html)
-
-### Plasma & Astrophysics Winter School: Astrostatistics 
-
-[Lecture Materials](./LectureNotes/AstroStatisticsWS_materials.html)
-
-### Ring Lecture: Astrostatistics 
-
-[Lecture Materials](./LectureNotes/AstroStatistics_materials.html)
-
-### Optical and Near-IR Observational Astronomy
-
-[Lecture Materials](./LectureNotes/AstroStatisticsWS_materials.html)
-
-
-The lecture notes are directly accessible here in two formats: 
-
-1. The *HTML-page* format presents the lectures each on a single HTML page, with a persistent table of contents and
-   dynamic media. LaTeX, images, and code are all rendered in-place. For those who prefer, the page can be switched
-   between *light* and **dark** mode using the toggle button beneath the table of contents. 
-2. The *HTML-slides* format presents the lectures on a series of HTML slides. The slides are somewhat unconventional, in
-   that they are variable in length (i.e. not like powerpoint). However I have found this to be the best format for 
-   conveying the information here. 
-
-Additional formats (PDF, markdown, and rmarkdown) are available in the [git
-repository](https://github.com/AngusWright/AstroStats/). These formats have limitations, however, as they variously
-cannot display animations (PDF) or latex (markdown) in a generally satisfactory way. The lectures themselves are written 
-in rmarkdown, and can be compiled into the other formats within R/Rstudio. 
-
-#### HTML Page Notes 
-
-- [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_html.html)
-- [Lecture 1a: Data Description and Summarisation](./LectureNotes/IntroductionToStatistics_Section1a_html.html)
-- [Lecture 1b: Data Description, Analysis, and Modelling](./LectureNotes/IntroductionToStatistics_Section1b_html.html)
-- [Lecture 1c: Data Mining Exercise](./LectureNotes/IntroductionToStatistics_Section1c_slidy.html)
-- [Lecture 2a: Fundamentals of Probability I](./LectureNotes/IntroductionToStatistics_Section2a_html.html)
-- [Lecture 2b: Fundamentals of Probability II](./LectureNotes/IntroductionToStatistics_Section2b_html.html)
-- [Lecture 2c: Probability Distributions](./LectureNotes/IntroductionToStatistics_Section2c_html.html)
-- [Lecture 2d: Random Numbers, Simulation, and Sampling](./LectureNotes/IntroductionToStatistics_Section2d_html.html)
-- [Lecture 3a: Bayesian Statistics](./LectureNotes/IntroductionToStatistics_Section3a_html.html)
-- [Lecture 3b: Priors and Introduction to Posterior Analysis](./LectureNotes/IntroductionToStatistics_Section3b_html.html)
-- [Lecture 3c: Posterior Analysis II](./LectureNotes/IntroductionToStatistics_Section3c_html.html)
-- [Lecture 4a: Significance of Evidence](./LectureNotes/IntroductionToStatistics_Section4a_html.html)
-- [Lecture 4b: Optimisation and Complex Modelling I](./LectureNotes/IntroductionToStatistics_Section4b_html.html)
-- [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_html.html)
-
-- [Astrostatistics: Lecture 1](./LectureNotes/AstroStatistics_1.html)
-- [Astrostatistics: Lecture 2](./LectureNotes/AstroStatistics_2.html)
-- [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.html)
-- [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.html)
-
-#### PDF Handouts   
-
-- [Astrostatistics: Lecture 1](./LectureNotes/AstroStatistics_1.pdf)
-- [Astrostatistics: Lecture 2](./LectureNotes/AstroStatistics_2.pdf)
-- [Astrostatistics: MH Example](./LectureNotes/AstroStatistics_2a.pdf)
-- [Astrostatistics: Lecture 3](./LectureNotes/AstroStatistics_3.pdf)
-
-- [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_html.html)
-#### HTML Short-Format Slides  
-
-- [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_ioslides_pres.html)
-
-#### HTML Long-Format Slides  
-
-- [Lecture 0: Course Outline and a Crash Course in R and Python](./LectureNotes/IntroductionToStatistics_Section0_slidy.html)
-- [Lecture 1a: Data Description and Summarisation](./LectureNotes/IntroductionToStatistics_Section1a_slidy.html)
-- [Lecture 1b: Data Description, Analysis, and Modelling](./LectureNotes/IntroductionToStatistics_Section1b_slidy.html)
-- [Lecture 1c: Data Mining Exercise](./LectureNotes/IntroductionToStatistics_Section1c_slidy.html)
-- [Lecture 2a: Fundamentals of Probability I](./LectureNotes/IntroductionToStatistics_Section2a_slidy.html)
-- [Lecture 2b: Fundamentals of Probability II](./LectureNotes/IntroductionToStatistics_Section2b_slidy.html)
-- [Lecture 2c: Probability Distributions](./LectureNotes/IntroductionToStatistics_Section2c_slidy.html)
-- [Lecture 2d: Random Numbers, Simulation, and Sampling](./LectureNotes/IntroductionToStatistics_Section2d_slidy.html)
-- [Lecture 3a: Bayesian Statistics](./LectureNotes/IntroductionToStatistics_Section3a_slidy.html)
-- [Lecture 3b: Priors and Introduction to Posterior Analysis](./LectureNotes/IntroductionToStatistics_Section3b_slidy.html)
-- [Lecture 3c: Posterior Analysis II](./LectureNotes/IntroductionToStatistics_Section3c_slidy.html)
-- [Lecture 4a: Significance of Evidence](./LectureNotes/IntroductionToStatistics_Section4a_slidy.html)
-- [Lecture 4b: Optimisation and Complex Modelling I](./LectureNotes/IntroductionToStatistics_Section4b_slidy.html)
-- [Lecture 4c: Complex Modelling II and Machine Learning](./LectureNotes/IntroductionToStatistics_Section4c_slidy.html)
-- [Ringvorlesung: Astrostatistics](./LectureNotes/Ringvorlesung_slidy.html)
-
-#### Cloning the lecture notes 
-
-The lecture notes can be directly downloaded in many formats from the [github repository](), or from the command line as
-below: 
-
-```bash
-git clone git@github.com:AngusWright/AstroStats.git
-``` 
-
-### Introduction to Statistics for Astronomers and Physicists 
-
-## Lecture Recordings 
-
-Recordings of the Lectures from the Summer Semester 2021 (held virtually) are available 
-[on my YouTube channel](https://www.youtube.com/user/anguswright1/playlists) in the Lectures playlist. 
 
 ## Useful Links 
 
