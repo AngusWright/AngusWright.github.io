@@ -67,7 +67,7 @@ of the course each semester, and welcome comments/feedback about the course and 
 to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) using the 
 [issues list](https://github.com/AngusWright/AstroStats/issues). 
 
-[Lecture Materials](./LectureNotes/IntroductionToStatistics_materials.html)
+[Lecture Materials](./LectureNotes/IntroductionToStatistics_materials.md)
 
 
 ## Useful Links 
@@ -83,4 +83,3 @@ to my career can be found below:
 - Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
 - Twitter: [@AstroAngus](https://twitter.com/AstroAngus)
 - German Centre for Cosmological Lensing: [GCCL](https://gccl-rub.github.io) 
-
