@@ -79,7 +79,7 @@ to my career can be found below:
 - Recorded Outreach Presentations: [Outreach Talks](https://youtube.com/playlist?list=PLTrrZ38TNocKKhA-w0DH-oU4z3FifeU5u)
 - Recorded Lectures: [Lectures](https://youtube.com/playlist?list=PLTrrZ38TNocJ5Ums6OJvQ0fY7bWcCRiEQ)
 - NASA ADS: [AHWPublications](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ)
-- ORCID: [0000-0001-7363-7932](https://orcid.org/my-orcid?orcid=0000-0001-7363-7932)
+- ORCID: [0000-0001-7363-7932](https://orcid.org/0000-0001-7363-7932)
 - Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
 - Twitter: [@AstroAngus](https://twitter.com/AstroAngus)
 - German Centre for Cosmological Lensing: [GCCL](https://gccl-rub.github.io) 
