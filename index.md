@@ -74,9 +74,9 @@ to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) 
 As a resource for teaching and student supervision, I have created a number of web-apps that demonstrate various aspects
 of Astroinformatics and statistical inference. These can be accessed via the below links: 
 
-[Shift Fitting under Heteroskedasticity](https://anguswright.github.io/AstroInformatics/shift_fitting.html)
+[Shift Fitting under Heteroskedasticity](https://anguswright.github.io/AstroInformatics/ShiftFitting/)
 
-[Metropolis-Hastings MCMC](https://anguswright.github.io/AstroInformatics/MCMC_site/index.html)
+[Metropolis-Hastings MCMC](https://anguswright.github.io/AstroInformatics/MCMC/)
 
 ## Useful Links 
 
