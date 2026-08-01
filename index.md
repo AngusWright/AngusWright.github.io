@@ -69,6 +69,14 @@ to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) 
 
 [Lecture Materials](./LectureNotes/IntroductionToStatistics_materials.md)
 
+### Astroinformatics
+
+As a resource for teaching and student supervision, I have created a number of web-apps that demonstrate various aspects
+of Astroinformatics and statistical inference. These can be accessed via the below links: 
+
+[Shift Fitting under Heteroskedasticity](https://anguswright.github.io/Astroinformatics/shift_fitting.qmd)
+
+[Metropolis-Hastings MCMC](https://anguswright.github.io/Astroinformatics/MCMC_site/index.html)
 
 ## Useful Links 
 
