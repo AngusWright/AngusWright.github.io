@@ -91,3 +91,22 @@ to my career can be found below:
 - Researchgate: [Dr Angus H. Wright](https://www.researchgate.net/profile/Angus-Wright-3)
 - Twitter: [@AstroAngus](https://twitter.com/AstroAngus)
 - German Centre for Cosmological Lensing: [GCCL](https://gccl-rub.github.io) 
+
+<!-- publication-metrics:start -->
+## Publication & Citation Metrics
+
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 17 September 2026:
+
+| Metric | All publications | Refereed publications |
+|:--|--:|--:|
+| Publications | 136 | 125 |
+| Total citations | 11,104 | 11,084 |
+| Average citations per publication | 81.6 | 88.7 |
+| Median citations per publication | 28 | 33 |
+| h-index | 51 | 51 |
+| i10-index | 103 | 102 |
+
+These citation counts include 922 self-citations. See the
+[full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=orcid%3A0000-0001-7363-7932)
+for additional normalized citation, readership, and download statistics.
+<!-- publication-metrics:end -->
