@@ -95,13 +95,13 @@ to my career can be found below:
 <!-- publication-metrics:start -->
 ## Publication & Citation Metrics
 
-According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 17 September 2026:
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 18 September 2026:
 
 | Metric | All publications | Refereed publications |
 |:--|--:|--:|
 | Publications | 136 | 125 |
-| Total citations | 11,104 | 11,084 |
-| Average citations per publication | 81.6 | 88.7 |
+| Total citations | 11,107 | 11,087 |
+| Average citations per publication | 81.7 | 88.7 |
 | Median citations per publication | 28 | 33 |
 | h-index | 51 | 51 |
 | i10-index | 103 | 102 |
