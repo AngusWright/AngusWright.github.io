@@ -97,14 +97,47 @@ to my career can be found below:
 
 According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 18 September 2026:
 
-| Metric | All publications | Refereed publications |
-|:---|---:|---:|
-| Publications | 136 | 125 |
-| Total citations | 11,107 | 11,087 |
-| Average citations per publication | 81.7 | 88.7 |
-| Median citations per publication | 28 | 33 |
-| h-index | 51 | 51 |
-| i10-index | 103 | 102 |
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Metric</th>
+      <th scope="col" align="right">All publications</th>
+      <th scope="col" align="right">Refereed publications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Publications</th>
+      <td align="right">136</td>
+      <td align="right">125</td>
+    </tr>
+    <tr>
+      <th scope="row">Total citations</th>
+      <td align="right">11,107</td>
+      <td align="right">11,087</td>
+    </tr>
+    <tr>
+      <th scope="row">Average citations per publication</th>
+      <td align="right">81.7</td>
+      <td align="right">88.7</td>
+    </tr>
+    <tr>
+      <th scope="row">Median citations per publication</th>
+      <td align="right">28</td>
+      <td align="right">33</td>
+    </tr>
+    <tr>
+      <th scope="row">h-index</th>
+      <td align="right">51</td>
+      <td align="right">51</td>
+    </tr>
+    <tr>
+      <th scope="row">i10-index</th>
+      <td align="right">103</td>
+      <td align="right">102</td>
+    </tr>
+  </tbody>
+</table>
 
 These citation counts include 922 self-citations. See the
 [full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=orcid%3A0000-0001-7363-7932)
