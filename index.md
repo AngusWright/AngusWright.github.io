@@ -108,38 +108,38 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
   <tbody>
     <tr>
       <th scope="row">Publications</th>
-      <td align="right">136</td>
-      <td align="right">125</td>
+      <td align="right">179</td>
+      <td align="right">143</td>
     </tr>
     <tr>
       <th scope="row">Total citations</th>
-      <td align="right">11,107</td>
-      <td align="right">11,087</td>
+      <td align="right">11,914</td>
+      <td align="right">11,846</td>
     </tr>
     <tr>
       <th scope="row">Average citations per publication</th>
-      <td align="right">81.7</td>
-      <td align="right">88.7</td>
+      <td align="right">66.6</td>
+      <td align="right">82.8</td>
     </tr>
     <tr>
       <th scope="row">Median citations per publication</th>
-      <td align="right">28</td>
-      <td align="right">33</td>
+      <td align="right">21</td>
+      <td align="right">31</td>
     </tr>
     <tr>
       <th scope="row">h-index</th>
-      <td align="right">51</td>
-      <td align="right">51</td>
+      <td align="right">53</td>
+      <td align="right">53</td>
     </tr>
     <tr>
       <th scope="row">i10-index</th>
-      <td align="right">103</td>
-      <td align="right">102</td>
+      <td align="right">117</td>
+      <td align="right">116</td>
     </tr>
   </tbody>
 </table>
 
-These citation counts include 922 self-citations. See the
-[full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=orcid%3A0000-0001-7363-7932)
+These citation counts include 1,254 self-citations. See the
+[full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=docs%28library%2FatjyraxzSK2XrjBBD_RgTQ%29)
 for additional normalized citation, readership, and download statistics.
 <!-- publication-metrics:end -->
