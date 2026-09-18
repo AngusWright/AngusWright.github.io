@@ -98,7 +98,7 @@ to my career can be found below:
 According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 18 September 2026:
 
 | Metric | All publications | Refereed publications |
-|:--|--:|--:|
+|:---|---:|---:|
 | Publications | 136 | 125 |
 | Total citations | 11,107 | 11,087 |
 | Average citations per publication | 81.7 | 88.7 |
