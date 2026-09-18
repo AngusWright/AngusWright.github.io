@@ -99,12 +99,12 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
 
 | Metric | All publications | Refereed publications |
 |:--|--:|--:|
-| Publications | 001 | 001 |
+| Publications | 136 | 125 |
 | Total citations | 11,107 | 11,087 |
 | Average citations per publication | 81.7 | 88.7 |
 | Median citations per publication | 28 | 33 |
-| h-index | 01 | 01 |
-| i10-index | 000 | 000 |
+| h-index | 51 | 51 |
+| i10-index | 103 | 102 |
 
 These citation counts include 922 self-citations. See the
 [full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=orcid%3A0000-0001-7363-7932)
