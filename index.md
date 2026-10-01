@@ -95,7 +95,7 @@ to my career can be found below:
 <!-- publication-metrics:start -->
 ## Publication & Citation Metrics
 
-According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 30 September 2026:
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 1 October 2026:
 
 <table>
   <thead>
@@ -108,38 +108,38 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
   <tbody>
     <tr>
       <th scope="row">Publications</th>
-      <td align="right">12</td>
-      <td align="right">11</td>
+      <td align="right">179</td>
+      <td align="right">148</td>
     </tr>
     <tr>
       <th scope="row">Total citations</th>
-      <td align="right">585</td>
-      <td align="right">573</td>
+      <td align="right">11,985</td>
+      <td align="right">11,923</td>
     </tr>
     <tr>
       <th scope="row">Average citations per publication</th>
-      <td align="right">48.8</td>
-      <td align="right">52.1</td>
+      <td align="right">67</td>
+      <td align="right">80.6</td>
     </tr>
     <tr>
       <th scope="row">Median citations per publication</th>
-      <td align="right">39</td>
-      <td align="right">45</td>
+      <td align="right">21</td>
+      <td align="right">29.5</td>
     </tr>
     <tr>
       <th scope="row">h-index</th>
-      <td align="right">10</td>
-      <td align="right">9</td>
+      <td align="right">54</td>
+      <td align="right">54</td>
     </tr>
     <tr>
       <th scope="row">i10-index</th>
-      <td align="right">10</td>
-      <td align="right">9</td>
+      <td align="right">118</td>
+      <td align="right">117</td>
     </tr>
   </tbody>
 </table>
 
-These citation counts include 6 self-citations. See the
+These citation counts include 1,259 self-citations. See the
 [full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=docs%28library%2FatjyraxzSK2XrjBBD_RgTQ%29)
 for additional normalized citation, readership, and download statistics.
 <!-- publication-metrics:end -->
