@@ -95,7 +95,7 @@ to my career can be found below:
 <!-- publication-metrics:start -->
 ## Publication & Citation Metrics
 
-According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 2 October 2026:
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 3 October 2026:
 
 <table>
   <thead>
@@ -113,12 +113,12 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
     </tr>
     <tr>
       <th scope="row">Total citations</th>
-      <td align="right">11,995</td>
-      <td align="right">11,932</td>
+      <td align="right">11,998</td>
+      <td align="right">11,935</td>
     </tr>
     <tr>
       <th scope="row">Average citations per publication</th>
-      <td align="right">66.6</td>
+      <td align="right">66.7</td>
       <td align="right">80.6</td>
     </tr>
     <tr>
