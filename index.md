@@ -95,7 +95,7 @@ to my career can be found below:
 <!-- publication-metrics:start -->
 ## Publication & Citation Metrics
 
-According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 4 November 2026:
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 5 November 2026:
 
 <table>
   <thead>
@@ -109,22 +109,22 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
     <tr>
       <th scope="row">Publications</th>
       <td align="right">181</td>
-      <td align="right">148</td>
+      <td align="right">156</td>
     </tr>
     <tr>
       <th scope="row">Total citations</th>
-      <td align="right">13,015</td>
-      <td align="right">12,926</td>
+      <td align="right">13,020</td>
+      <td align="right">12,954</td>
     </tr>
     <tr>
       <th scope="row">Average citations per publication</th>
       <td align="right">71.9</td>
-      <td align="right">87.3</td>
+      <td align="right">83</td>
     </tr>
     <tr>
       <th scope="row">Median citations per publication</th>
       <td align="right">22</td>
-      <td align="right">30.5</td>
+      <td align="right">27.5</td>
     </tr>
     <tr>
       <th scope="row">h-index</th>
@@ -139,7 +139,7 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
   </tbody>
 </table>
 
-These citation counts include 1,305 self-citations. See the
+These citation counts include 1,281 self-citations. See the
 [full ADS/SciX metrics report](https://scixplorer.org/search/metrics?q=docs%28library%2FatjyraxzSK2XrjBBD_RgTQ%29)
 for additional normalized citation, readership, and download statistics.
 <!-- publication-metrics:end -->
