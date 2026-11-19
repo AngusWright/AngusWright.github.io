@@ -95,7 +95,7 @@ to my career can be found below:
 <!-- publication-metrics:start -->
 ## Publication & Citation Metrics
 
-According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 18 November 2026:
+According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyraxzSK2XrjBBD_RgTQ), as of 19 November 2026:
 
 <table>
   <thead>
@@ -109,17 +109,17 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
     <tr>
       <th scope="row">Publications</th>
       <td align="right">181</td>
-      <td align="right">157</td>
+      <td align="right">159</td>
     </tr>
     <tr>
       <th scope="row">Total citations</th>
-      <td align="right">12,898</td>
-      <td align="right">12,827</td>
+      <td align="right">12,917</td>
+      <td align="right">12,849</td>
     </tr>
     <tr>
       <th scope="row">Average citations per publication</th>
-      <td align="right">71.3</td>
-      <td align="right">81.7</td>
+      <td align="right">71.4</td>
+      <td align="right">80.8</td>
     </tr>
     <tr>
       <th scope="row">Median citations per publication</th>
@@ -133,8 +133,8 @@ According to [NASA ADS/SciX](https://ui.adsabs.harvard.edu/user/libraries/atjyra
     </tr>
     <tr>
       <th scope="row">i10-index</th>
+      <td align="right">120</td>
       <td align="right">119</td>
-      <td align="right">118</td>
     </tr>
   </tbody>
 </table>
