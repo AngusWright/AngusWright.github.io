@@ -71,12 +71,42 @@ to my [AstroStats github repository](https://github.com/AngusWright/AstroStats) 
 
 ### Astroinformatics
 
-As a resource for teaching and student supervision, I have created a number of web-apps that demonstrate various aspects
-of Astroinformatics and statistical inference. These can be accessed via the below links: 
+As a resource for teaching and student supervision, I have created a collection of interactive, browser-based
+demonstrations covering astroinformatics and statistical inference. The complete collection is available in the
+[AstroInformatics gallery](https://anguswright.github.io/AstroInformatics/), with source code hosted in the
+[AstroInformatics GitHub repository](https://github.com/AngusWright/AstroInformatics).
 
-[Shift Fitting under Heteroskedasticity](https://anguswright.github.io/AstroInformatics/ShiftFitting/)
+#### Bayesian Statistics & Posterior Inference
 
-[Metropolis-Hastings MCMC](https://anguswright.github.io/AstroInformatics/MCMC/)
+- [Priors and Data: What Matters, and When?](https://anguswright.github.io/AstroInformatics/Conjugate/)
+- [Gibbs Sampling: One Conditional at a Time](https://anguswright.github.io/AstroInformatics/Gibbs/)
+- [Metropolis-Hastings MCMC](https://anguswright.github.io/AstroInformatics/MCMC/)
+- [Marginalisation: From Posterior Landscape to Scientific Answer](https://anguswright.github.io/AstroInformatics/Marginalisation/)
+- [Posterior Predictions: Understanding the Population vs Predicting New Observations](https://anguswright.github.io/AstroInformatics/PosteriorPredictive/)
+
+#### Astrostatistics
+
+- [Malmquist Bias: The Universe You Don't Detect](https://anguswright.github.io/AstroInformatics/SelectionEffects/)
+- [Eddington Bias: Noise Creates Massive Galaxies](https://anguswright.github.io/AstroInformatics/EddingtonBias/)
+- [Shift Fitting under Heteroskedasticity](https://anguswright.github.io/AstroInformatics/ShiftFitting/)
+- [Forward Models and Uncertainty](https://anguswright.github.io/AstroInformatics/ForwardModelling/)
+- [Classification under Alien Skies](https://anguswright.github.io/AstroInformatics/SurveyShift/)
+- [Counting Photons](https://anguswright.github.io/AstroInformatics/PhotonCounting/)
+
+#### Statistics Fundamentals
+
+- [Bayesian Evidence: Is That Spectral Line Real?](https://anguswright.github.io/AstroInformatics/ModelEvidence/)
+- [Partial Pooling: Noisy Stars, One Population](https://anguswright.github.io/AstroInformatics/HierarchicalModels/)
+- [Looking-Elsewhere: A Sky Full of False Discoveries](https://anguswright.github.io/AstroInformatics/MultipleTesting/)
+- [Anomaly Detection: Why Reliable Detectors Still Find Impostors](https://anguswright.github.io/AstroInformatics/BaseRates/)
+- [Confounding Correlations](https://anguswright.github.io/AstroInformatics/Correlation/)
+
+#### Further Foundations
+
+- [Why Stacking Works (and When It Doesn't)](https://anguswright.github.io/AstroInformatics/CentralLimit/)
+- [Inversion Sampling: Turning Uniform Randomness into a Universe](https://anguswright.github.io/AstroInformatics/InverseSampling/)
+- [Mean Sensitivity: One Bad Star](https://anguswright.github.io/AstroInformatics/RobustStatistics/)
+- [Binning is Sinning!](https://anguswright.github.io/AstroInformatics/DensityEstimation/)
 
 ## Useful Links 
 
